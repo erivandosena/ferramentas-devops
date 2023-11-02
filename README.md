@@ -1,7 +1,5 @@
 # Seleção com listas das melhores ferramentas DevOps
 
-![Ferramentas DevOps](https://media.licdn.com/dms/image/D5622AQF6wSRoxGnUpA/feedshare-shrink_1280/0/1691129849411?e=1701907200&v=beta&t=XyktOjW6TD4XpXMtYANTjGR5eWaze53ga2WebAFzX68)  
-
 Manter-se atualizado com a ampla gama de ferramentas do ecossistema DevOps pode ser complexo.  
 
 Esta compilação minuciosa oferece uma visão geral das ferramentas de DevOps para facilitar o desenvolvimento, implementação, monitoramento e outras atividades essenciais.  
@@ -11,6 +9,8 @@ A seleção contempla tanto ferramentas de código aberto/gratuitas quanto solu�
 Caso tenha conhecimento de alguma ferramenta adicional, fique à vontade para compartilhar sua perspectiva nos comentários ou, se preferir, contribua com um Pull Request com os detalhes da ferramenta para https://github.com/techiescamp/devops-tools.  
 
 # DevOps Tools
+
+![Ferramentas DevOps](https://media.licdn.com/dms/image/D5622AQF6wSRoxGnUpA/feedshare-shrink_1280/0/1691129849411?e=1701907200&v=beta&t=XyktOjW6TD4XpXMtYANTjGR5eWaze53ga2WebAFzX68)  
 
 A comprehensive collection of essential DevOps tools for development, deployment, monitoring, and more.
 
