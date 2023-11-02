@@ -1,4 +1,14 @@
-# Curated List of DevOps Tools
+# Seleção com listas das melhores ferramentas DevOps
+
+Manter-se atualizado com a ampla gama de ferramentas do ecossistema DevOps pode ser complexo.  
+
+Esta compilação minuciosa oferece uma visão geral das ferramentas de DevOps para facilitar o desenvolvimento, implementação, monitoramento e outras atividades essenciais.  
+
+A seleção contempla tanto ferramentas de código aberto/gratuitas quanto soluções corporativas, todas elas bem reconhecidas na comunidade.  
+
+Caso tenha conhecimento de alguma ferramenta adicional, fique à vontade para compartilhar sua perspectiva nos comentários ou, se preferir, contribua com um Pull Request com os detalhes da ferramenta para https://github.com/techiescamp/devops-tools.  
+
+# DevOps Tools
 
 A comprehensive collection of essential DevOps tools for development, deployment, monitoring, and more.
 
